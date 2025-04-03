@@ -5,11 +5,11 @@ This repository showcases a selection of code excerpts for Unity3D. Due to restr
  
 ### Table of contents
  
-1. [Code 1 : Scene Manager](#code-1--scene-manager)
-2. [Code 2 : Photon Volley Ball](#code-2--photon-volley-ball)
-3. [Code 3 : Photon Main Network](#code-3--photon-main-network)
-4. [Code 4 : Agora Manager](#code-4--agora-manager)
-4. [Code 5 : Boid Demo](#code-5--boid-demo)
+1. [Code 1 : Scene Manager](#code-1--scene-manager-link)
+2. [Code 2 : Photon Volley Ball](#code-2--photon-volley-ball-link)
+3. [Code 3 : Photon Main Network](#code-3--photon-main-network-link)
+4. [Code 4 : Agora Manager](#code-4--agora-manager-link)
+4. [Code 5 : Boid Demo](#code-5--boid-demo-link)
 
 ### Code 1 : Scene Manager [(link)](Code1-SceneManager)
 
