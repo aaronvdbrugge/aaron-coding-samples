@@ -37,7 +37,7 @@ Additionally, the **AppLoadingDiagram_drawio.png** file is a diagram I created u
 
 <details>
 <summary>🇰🇷 한국어</summary>
-MainSceneNetwork 클래스는 **Photon Networking SDK**를 활용한 플레이어 연결을 처리하며, 초기 연결, 재접속, 그리고 룸 참가 기능을 담당합니다. 각 Photon 룸은 파트너 플레이어와 함께하는 멀티플레이를 위해 설계되었습니다. 또한, **AppLoadingDiagram_drawio.png** 파일은 앱의 로딩 과정 및 네트워크 접속 흐름을 시각화하기 위해 draw.io를 사용하여 제작한 다이어그램입니다.
+MainSceneNetwork 클래스는 Photon Networking SDK를 활용한 플레이어 연결을 처리하며, 초기 연결, 재접속, 그리고 룸 참가 기능을 담당합니다. 각 Photon 룸은 파트너 플레이어와 함께하는 멀티플레이를 위해 설계되었습니다.<br><br>또한, AppLoadingDiagram_drawio.png 파일은 앱의 로딩 과정 및 네트워크 접속 흐름을 시각화하기 위해 draw.io를 사용하여 제작한 다이어그램입니다.
 </details>
 
 [<img src="Code3-PhotonMainNetwork/AppLoadingDiagram_drawio.png" alt="Description" width="300">](Code3-PhotonMainNetwork/AppLoadingDiagram_drawio.png)
